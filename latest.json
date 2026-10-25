@@ -1,17 +1,17 @@
 {
   "protocol": 1,
-  "build": 4,
+  "build": 7,
   "version": "1.0.0",
-  "notes": "نافذة سداد الدين ورصيد الحساب الموحّد ومشاكل المزامنة",
-  "created": "2026-10-25T12:25:55.881Z",
+  "notes": "رصيد الدين الموحّد، نافذة السداد، قائمة الزبائن، مشاكل المزامنة، الطباعة الحرارية",
+  "created": "2026-10-25T14:44:41.280Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/4.json.gz",
-    "sha256": "30c406317e471bbcf4e96b76f6b43657428525ca82f33e3af154fd52e32366a0",
-    "size": 584449
+    "path": "manifests/7.json.gz",
+    "sha256": "dbc5d3c934b7cc780a25ccd2f95f6bc834d4a0886972f4ea79741b9de5305c4a",
+    "size": 584565
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
 }
