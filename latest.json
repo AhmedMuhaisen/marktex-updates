@@ -1,17 +1,17 @@
 {
   "protocol": 1,
-  "build": 2,
+  "build": 1,
   "version": "1.0.0",
-  "notes": "تجربة تحديث من GitHub (اختبار)",
-  "created": "2026-10-25T10:08:16.595Z",
+  "notes": "أول إصدار يدعم التحديث السريع",
+  "created": "2026-10-25T09:14:07.027Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/2.json.gz",
-    "sha256": "5b492fcc06c70a054fbdd7eca369ffde0a4cbf2c4aa2c865cb52369a325eb14c",
-    "size": 584267
+    "path": "manifests/1.json.gz",
+    "sha256": "b0e43c21bbe750ef4c6181c9797c941ac8829b3e29b5966c51e2966766bc9950",
+    "size": 584207
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
 }
