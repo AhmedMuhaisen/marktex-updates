@@ -1,17 +1,17 @@
 {
   "protocol": 1,
-  "build": 7,
+  "build": 8,
   "version": "1.0.0",
-  "notes": "رصيد الدين الموحّد، نافذة السداد، قائمة الزبائن، مشاكل المزامنة، الطباعة الحرارية",
-  "created": "2026-10-25T14:44:41.280Z",
+  "notes": "إصلاح قفل الترخيص بعد ربط السحابة (خطط بأسماء عربية)",
+  "created": "2026-10-26T14:12:28.744Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/7.json.gz",
-    "sha256": "dbc5d3c934b7cc780a25ccd2f95f6bc834d4a0886972f4ea79741b9de5305c4a",
-    "size": 584565
+    "path": "manifests/8.json.gz",
+    "sha256": "c4529a79ece67d1e501b103dcff92d30c0b4c4d67ee5734290ec28d57989a2ca",
+    "size": 584560
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
 }
