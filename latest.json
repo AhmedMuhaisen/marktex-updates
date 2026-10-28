@@ -1,16 +1,16 @@
 {
   "protocol": 1,
-  "build": 8,
+  "build": 9,
   "version": "1.0.0",
-  "notes": "إصلاح قفل الترخيص بعد ربط السحابة (خطط بأسماء عربية)",
-  "created": "2026-10-26T14:12:28.744Z",
+  "notes": "إصلاح خصم مبيعات الجوال المكرر وتصحيح الرصيد من السحابة",
+  "created": "2026-10-26T19:59:40.169Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/8.json.gz",
-    "sha256": "c4529a79ece67d1e501b103dcff92d30c0b4c4d67ee5734290ec28d57989a2ca",
+    "path": "manifests/9.json.gz",
+    "sha256": "9bfeab1d36192f36c75fc5c15df30fc57892998395447d60ecd22f31b0dca654",
     "size": 584560
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
