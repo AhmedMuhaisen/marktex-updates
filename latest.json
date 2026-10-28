@@ -1,16 +1,16 @@
 {
   "protocol": 1,
-  "build": 9,
+  "build": 10,
   "version": "1.0.0",
-  "notes": "إصلاح خصم مبيعات الجوال المكرر وتصحيح الرصيد من السحابة",
-  "created": "2026-10-26T19:59:40.169Z",
+  "notes": "قيود فواتير الجوال والويب صارت تيجي من السحابة كما هي بدل ترحيلها محليًا",
+  "created": "2026-10-28T07:43:12.922Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/9.json.gz",
-    "sha256": "9bfeab1d36192f36c75fc5c15df30fc57892998395447d60ecd22f31b0dca654",
+    "path": "manifests/10.json.gz",
+    "sha256": "9c7ce19c09a7f186a104f623aa0137c244a133931616048e9143e5c1b4857ff4",
     "size": 584560
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
