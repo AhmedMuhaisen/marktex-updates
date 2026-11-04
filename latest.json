@@ -1,17 +1,17 @@
 {
   "protocol": 1,
-  "build": 11,
+  "build": 15,
   "version": "1.0.0",
-  "notes": "الفروع: فتح أكثر من فرع (اشتراك) على نفس الجهاز، كل فرع بقاعدة بيانات وجلسة دخول مستقلة",
-  "created": "2026-10-31T15:07:20.608Z",
+  "notes": "تقريب الفواتير، كسور الأسعار بخانة وحدة، الإرساليات بين الفروع، تعديل الزبون، وتصحيح رصيد الحسابات وتكرار حركة الفاتورة",
+  "created": "2026-11-04T21:08:50.540Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/11.json.gz",
-    "sha256": "66634ed874e8ef7ab4f9e38323a0fd39044f95afa9de8c1ae9561b737f2c639f",
-    "size": 584562
+    "path": "manifests/15.json.gz",
+    "sha256": "bcedba9f4cfd079d565d74f2ff9fc6c3f277be3b31a418f89e80bfa4988b6de4",
+    "size": 584907
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
 }
