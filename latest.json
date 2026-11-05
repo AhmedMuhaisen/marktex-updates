@@ -1,17 +1,17 @@
 {
   "protocol": 1,
-  "build": 15,
+  "build": 16,
   "version": "1.0.0",
-  "notes": "تقريب الفواتير، كسور الأسعار بخانة وحدة، الإرساليات بين الفروع، تعديل الزبون، وتصحيح رصيد الحسابات وتكرار حركة الفاتورة",
-  "created": "2026-11-04T21:08:50.540Z",
+  "notes": "الإرساليات بين الفروع: وحدة وبونص زي فاتورة الشراء، وخانات الأسعار بتعتمد اللي بتكتبه",
+  "created": "2026-11-05T07:16:01.094Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/15.json.gz",
-    "sha256": "bcedba9f4cfd079d565d74f2ff9fc6c3f277be3b31a418f89e80bfa4988b6de4",
-    "size": 584907
+    "path": "manifests/16.json.gz",
+    "sha256": "a6fd1b1f043eb5a6707034c8d71af1639ce3d26b687be0549dc92a9366d06636",
+    "size": 584909
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
 }
