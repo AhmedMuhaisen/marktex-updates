@@ -1,17 +1,17 @@
 {
   "protocol": 1,
-  "build": 20,
+  "build": 21,
   "version": "1.0.0",
-  "notes": "فواتير الشراء: زر «تعديل» بالقائمة جنب «عرض» زي فواتير البيع، وأزرار التعديل فوق بصفحة الفاتورة",
-  "created": "2026-11-10T09:27:45.316Z",
+  "notes": "فاتورة الشراء زي الجوال: كل الوحدات بالقائمة، والوحدة الجديدة بتسأل «فيها كم حبة؟» بنفس السطر وبتنربط بالمنتج لحالها",
+  "created": "2026-11-10T09:40:44.820Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/20.json.gz",
-    "sha256": "af10df336e84005f730aae82c72f0446512bb6619e27c6010d06eba8181f8d91",
-    "size": 584957
+    "path": "manifests/21.json.gz",
+    "sha256": "4efcb5192977eebd64837b17c982aeaae381e708a4a16d39f53cc0302b22943b",
+    "size": 584963
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
 }
