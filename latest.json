@@ -1,17 +1,17 @@
 {
   "protocol": 1,
-  "build": 18,
+  "build": 19,
   "version": "1.0.0",
-  "notes": "صلاحيات كل موظف لحاله وموحّدة مع الجوال، والمحاسب ومسؤول المخزون بيتزامنوا",
-  "created": "2026-11-06T11:03:47.521Z",
+  "notes": "فاتورة الشراء: الوحدة (الحبة) بتطلع تلقائيًا لكل المنتجات، والكاشير بيبيع بالوحدات بدون تكرار",
+  "created": "2026-11-10T09:05:48.005Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/18.json.gz",
-    "sha256": "92347f764caf58209cbdd374c808012618a6c3522795e1d3711bb5568d65bcf3",
-    "size": 584961
+    "path": "manifests/19.json.gz",
+    "sha256": "6120c8cac36f0b4a153c77e0299b50d69eee1262b7522168b65f8da5ac5af011",
+    "size": 584965
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
 }
