@@ -1,17 +1,17 @@
 {
   "protocol": 1,
-  "build": 21,
+  "build": 22,
   "version": "1.0.0",
-  "notes": "فاتورة الشراء زي الجوال: كل الوحدات بالقائمة، والوحدة الجديدة بتسأل «فيها كم حبة؟» بنفس السطر وبتنربط بالمنتج لحالها",
-  "created": "2026-11-10T09:40:44.820Z",
+  "notes": "فاتورة الشراء بتنعدّل بنفس الشاشة، والتسجيل السريع صار دفتر بتعبّي فيه كذا منتج مرة وحدة. صورة المنتج بفاتورة الشراء، اختصارات Alt+1..8، البحث ما بيفرّق بالهمزات، وانصلح «خطأ سيرفر» لما تضيف منتج من فاتورة الشراء.",
+  "created": "2026-11-11T12:32:39.918Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/21.json.gz",
-    "sha256": "4efcb5192977eebd64837b17c982aeaae381e708a4a16d39f53cc0302b22943b",
-    "size": 584963
+    "path": "manifests/22.json.gz",
+    "sha256": "8f06d7221ac45e2dcef5c61530d7c9d923088f9192966dde0e9355671944e8cd",
+    "size": 584959
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
 }
