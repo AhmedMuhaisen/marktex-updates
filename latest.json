@@ -1,17 +1,17 @@
 {
   "protocol": 1,
-  "build": 24,
+  "build": 25,
   "version": "1.0.0",
-  "notes": "بفاتورة الشراء: سعر البيع بيتحوّل مع الوحدة، والإجمالي بينكتب وسعر الوحدة بينحسب لحاله (5 كراتين بـ1000 = 200 للكرتونة)، وآلة حاسبة جنب الخانات المالية مع زر نقل. وصورة المنتج صارت بتبيّن بصفحة التعديل وبعمود لحالها بقائمة المنتجات.",
-  "created": "2026-11-14T11:45:43.029Z",
+  "notes": "تصليح خطأ بحفظ المنتج من صفحة التعديل (مثلًا لما تضيف صورة)، والأرقام اللي آخرها صفر صارت تبيّن صح بالتعديل (30 كانت تطلع 3)",
+  "created": "2026-11-14T12:38:18.456Z",
   "requiresFull": false,
   "runtime": {
     "electron": "31.7.7"
   },
   "manifest": {
-    "path": "manifests/24.json.gz",
-    "sha256": "acd6c7ea6d4aef777da682f111fdb2a7c0b5a89dcf7c1b80c659f68e1c57b997",
-    "size": 585034
+    "path": "manifests/25.json.gz",
+    "sha256": "29c48b3eee080797cb12124b5afb04501ada9d5d14bd2fe1dfb0f1e2bea1ed3f",
+    "size": 585031
   },
   "baseUrl": "https://raw.githubusercontent.com/AhmedMuhaisen/marktex-updates/main/"
 }
